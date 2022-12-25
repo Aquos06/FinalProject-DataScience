@@ -16,7 +16,7 @@ code .
 
 ## Result
 You can download the best weights "best.pt". 
-In validation dataset, the weights have around 95% accuracy
+In validation dataset, the weights have around 96% accuracy
 
 ### Confussion Matrix
 <img src = 'confussion-matrix.jpg'>
